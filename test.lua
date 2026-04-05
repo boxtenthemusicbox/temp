@@ -10,6 +10,6 @@
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
 getgenv().SCRIPT_KEY = "" -- ignore this : )
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/f5bgc89ca7ei577icc73ah9ag4588cf48ied698ah77i88eba834ifi5cb5i4fec/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/p5lqm89mk7os577smm73kr9kq4588mp48son698kr77s88olk834sps5ml5s4pom/download"))()
 
 -------------------------------------------------------------------------------------------------------------------------------
