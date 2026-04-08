@@ -9,6 +9,11 @@
 
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
+getgenv().STOP_SPAM_EXECUTING = true
+if getgenv().STOP_SPAM_EXECUTING then return end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
 getgenv().SCRIPT_KEY = "" -- ignore this : )
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/8b260187915d920b595f2c8952e1dbf3d01e85355cdf0844e04f2accec681776/download"))()
 
