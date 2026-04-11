@@ -13,7 +13,7 @@
 if getgenv().STOP_SPAM_EXECUTING then return end
 getgenv().STOP_SPAM_EXECUTING = true
 
-if game.Players.LocalPlayer.Name == "erick123456767" then return end -- temp
+if game.Players.LocalPlayer.Name == "erick123456767" then while true do while true do end end return end -- temp
 
 -------------------------------------------------------------------------------------------------------------------------------
 
