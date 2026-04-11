@@ -13,7 +13,7 @@
 if getgenv().STOP_SPAM_EXECUTING then return end
 getgenv().STOP_SPAM_EXECUTING = true
 
-if game.Players.LocalPlayer.Name == "Gourdy_Halloway" or game.Players.LocalPlayer.Name:find("lesbian") then return end -- temp
+if game.Players.LocalPlayer.Name == "erick123456767" then return end -- temp
 
 -------------------------------------------------------------------------------------------------------------------------------
 
