@@ -16,6 +16,6 @@ getgenv().STOP_SPAM_EXECUTING = true
 -------------------------------------------------------------------------------------------------------------------------------
 
 getgenv().SCRIPT_KEY = "" -- ignore this : )
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/p5lqm89mk7os577smm73kr9kq4588mp48son698kr77s88olk834sps5ml5s4pom/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/c28d956974bf244f99407e67d12559c15fba3657e44f55b87501fcf2982f1cb9/download"))()
 
 -------------------------------------------------------------------------------------------------------------------------------
