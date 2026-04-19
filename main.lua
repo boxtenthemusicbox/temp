@@ -10,8 +10,8 @@
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
 -- yo im dumb
-if getgenv().STOP_SPAM_EXECUTING then return end
-getgenv().STOP_SPAM_EXECUTING = true
+if getgenv().STOP_SPAM_EXECUTING_BSGUI then return end
+getgenv().STOP_SPAM_EXECUTING_BSGUI = true
 
 -------------------------------------------------------------------------------------------------------------------------------
 
