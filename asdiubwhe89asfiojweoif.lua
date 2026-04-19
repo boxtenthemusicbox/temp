@@ -10,8 +10,8 @@
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
 -- who the fuck chose this name
-if getgenv().STOP_SPAM_EXECUTING then return end
-getgenv().STOP_SPAM_EXECUTING = true
+if getgenv().STOP_SPAM_EXECUTING_GSCA then return end
+getgenv().STOP_SPAM_EXECUTING_GSCA = true
 
 -------------------------------------------------------------------------------------------------------------------------------
 
