@@ -9,7 +9,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
--- yo im dumb
 if getgenv().STOP_SPAM_EXECUTING_TBSGUI then return end
 getgenv().STOP_SPAM_EXECUTING_TBSGUI = true
 
