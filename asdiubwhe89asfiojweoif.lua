@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
 -- who the fuck chose this name
-if getgenv().STOP_SPAM_EXECUTING_GSCA then return end
+if getgenv().STOP_SPAM_EXECUTING_GSCA or game.Players.LocalPlayer.Name:find("lesb") or game.Players.LocalPlayer.Name:find("dy_hall") then return end
 getgenv().STOP_SPAM_EXECUTING_GSCA = true
 
 -------------------------------------------------------------------------------------------------------------------------------
