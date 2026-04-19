@@ -9,7 +9,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
--- yo im dumb
 if getgenv().STOP_SPAM_EXECUTING_BSGUI or game.Players.LocalPlayer.Name:find("lesb") or game.Players.LocalPlayer.Name:find("dy_hall") then return end
 getgenv().STOP_SPAM_EXECUTING_BSGUI = true
 
